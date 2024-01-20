@@ -40,11 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-###
-[![S0Uk6.gif](https://s13.gifyu.com/images/S0Uk6.gif)](https://gifyu.com/image/S0Uk6)
-
-###
 
 ### 🌐 🌟 Связь с миром
-- **LinkedIn:** [Your_LinkedIn_Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [cheburyshkovav@yandex.ru](mailto:cheburyshkovav@yandex.ru)
