@@ -79,6 +79,12 @@
   <a href="https://github.com/cheburyshkova/declarationanalytics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cheburyshkova&repo=declarationanalytics&theme=buefy&bg_color=6a1b9a&title_color=f06292&icon_color=f8a8d4" width="400" alt="declarationanalytics">
   </a>
+  <a href="https://github.com/cheburyshkova/classification-modeling-ML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cheburyshkova&repo=classification-modeling-ML&theme=buefy&bg_color=6a1b9a&title_color=f06292&icon_color=f8a8d4" width="400" alt="classification-modeling-ML">
+  </a>
+  <a href="https://github.com/cheburyshkova/DepartmentDossier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cheburyshkova&repo=DepartmentDossier&theme=buefy&bg_color=6a1b9a&title_color=f06292&icon_color=f8a8d4" width="400" alt="DepartmentDossier">
+  </a>
 </p>
 
 <br>
